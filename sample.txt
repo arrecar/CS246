@@ -1,2 +1,3 @@
 Editing this file to try out merging
 editing this file
+testing the merge option
